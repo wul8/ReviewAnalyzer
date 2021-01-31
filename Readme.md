@@ -14,7 +14,7 @@ python main.py -text "this is where the review goes."</br>
 "/src/TM" - Topical Modeling source code </br>
 
 ### Code Flowchart
-![flow chart](https://github.com/wul8/Image/blob/main/minions.png)
+![flow chart](https://user-images.githubusercontent.com/42815776/106378089-5c860380-6367-11eb-9651-f395085b2285.png)
 
 ### Reference
 [1] Xu, Hu and Liu, Bing and Shu, Lei and Yu, Philip S, BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis, Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics, 2019
